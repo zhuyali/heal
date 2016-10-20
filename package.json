@@ -1,6 +1,6 @@
 {
   "name": "heal",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "generate node.js project automatically",
   "bin": "./bin/heal",
   "main": "index.js",
@@ -22,10 +22,6 @@
   },
   "homepage": "https://github.com/zhuyali/heal#readme",
   "dependencies": {
-    "child_process": "^1.0.2",
-    "fs": "0.0.1-security",
-    "path": "^0.12.7",
-    "rd": "0.0.2",
-    "util": "^0.10.3"
+    "rd": "0.0.2"
   }
 }
