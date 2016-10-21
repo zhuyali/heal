@@ -1,19 +1,15 @@
 ## heal
----
 Generate node.js project automatically.
 
 ## Installation
----
 ```
 $ npm install heal -g
 ```
 ## Quick Start
----
 ```
 $ heal zyl
 ```
 ## License
----
 The MIT License (MIT)
 
 Copyright (c) 2016 zyl
