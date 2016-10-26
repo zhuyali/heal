@@ -1,12 +1,12 @@
 {
   "name": "heal",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "generate node.js project automatically",
   "bin": "./bin/heal",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhuyali/heal.git"
+    "url": "https://github.com/zhuyali/heal.git"
   },
   "keywords": [
     "generator",
