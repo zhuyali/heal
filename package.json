@@ -4,9 +4,6 @@
   "description": "generate node.js project automatically",
   "bin": "./bin/heal",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zhuyali/heal.git"
@@ -22,6 +19,7 @@
   },
   "homepage": "https://github.com/zhuyali/heal#readme",
   "dependencies": {
+    "microtemplate": "^0.1.5",
     "rd": "0.0.2"
   }
 }
