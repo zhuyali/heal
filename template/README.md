@@ -1,15 +1,21 @@
-## <#=template#>
+# <#=template#>
+
 <#=template#>
 
 ## Installation
+
 ```
 $ npm install <#=template#> -g
 ```
+
 ## Quick Start
+
 ```
 $ <#=template#> zyl
 ```
+
 ## License
+
 The MIT License (MIT)
 
 Copyright (c) 2016 zyl
