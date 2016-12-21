@@ -13,4 +13,3 @@ if (args[0] === '-v') {
 
 var main = require('..');
 
-main();
