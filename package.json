@@ -1,6 +1,6 @@
 {
   "name": "heal",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "generate node.js project automatically",
   "bin": "./bin/heal",
   "main": "index.js",
